@@ -35,5 +35,5 @@ What's in store:
    `git clone <url you just copied>`
 
     For example: <br/>
-    `git clone `
+    `git clone https://github.com/Tech-Matrix/Getting-Started.git`
 
