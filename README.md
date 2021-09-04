@@ -31,7 +31,9 @@ What's in store:
    Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button and then click the copy to clipboard icon to copy the url of the repo. <br />
    ![image](https://user-images.githubusercontent.com/73497800/132091517-75610254-b897-44d5-93b6-fb0037314fc2.png)
 
-   Open a terminal and run the following git command:<br />
+   Open your terminal and run the following git command:<br />
    `git clone <url you just copied>`
 
+    For example: <br/>
+    `git clone `
 
