@@ -24,7 +24,7 @@ Once that's done, come back here and follow these steps ! <br /><br />
 
    #### 1. Fork this repository
     
-   ![image](https://user-images.githubusercontent.com/73497800/132091266-43eee21c-5831-40be-b580-c715037cf2da.png)<br/>
+   ![image](https://user-images.githubusercontent.com/73497800/132095758-20f82afb-3987-4af8-8935-61282bb91e4c.png)<br/>
      Fork this repository by clicking on the fork button on the top of this page. This will create a copy of this repository in your account.
      
    #### 2. Clone the repository
@@ -99,12 +99,15 @@ Once that's done, come back here and follow these steps ! <br /><br />
    
    #### 7. Submit your Pull request for review
    
+   ![image](https://user-images.githubusercontent.com/73497800/132095402-2a33defe-072f-45b0-92ea-e2c50f45a2e4.png) <br /><br />
    Go to your forked repository on GitHub and click on the `Compare & pull request` button. <br />
+
+   ![image](https://user-images.githubusercontent.com/73497800/132095416-d35a7fe7-6a55-47b4-8712-435fbc4b6410.png) <br /><br />
    
-   **Note: Make sure you're on your newly created branch !**
+   Submit your Pull Request, after ensuring that the base repository is `Tech-Matrix/Getting-Started` and head repository is <br /> `<your-username>/Getting-Started` <br/><br />
    
-   
-   Submit your Pull Request, after ensuring that the base repository is `Tech-Matrix/Getting-Started` and head repository is `<your-username>/Getting-Started`
+   ![image](https://user-images.githubusercontent.com/73497800/132095677-b1f00078-6c28-47b8-93f5-b26c273f4fd7.png)
+
    
    <br /><br />
    ### ✨Congrats ! You just made a contribution ! ✨
