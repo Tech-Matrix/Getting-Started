@@ -33,25 +33,33 @@ Once that's done, come back here and follow these steps !
    ![image](https://user-images.githubusercontent.com/73497800/132091517-75610254-b897-44d5-93b6-fb0037314fc2.png)
 
    Open your terminal and run the following git command:<br />
-   `git clone <url you just copied>`
+   ```
+   git clone <url you just copied>
+   ```
 
    For example: <br/>
-    `git clone https://github.com/A-HK/Getting-Started-1.git`
+    ```
+    git clone https://github.com/A-HK/Getting-Started-1.git
+    ``` <br />
     
    Remember to clone **your forked repository** , not the original one.
     
    #### 3. Create a branch
    
    Change to the repository directory on your computer (if you are not already there):<br />
-   `cd Getting-Started` <br />
+    ```
+    cd Getting-Started
+    ```<br />
    
    Now create a branch using the git checkout command: <br />
-   `
-   git checkout -b your-new-branch-name
-   ` <br />
+    ```
+    git checkout -b your-new-branch-name
+    ```<br />
    
    For example:
-   `git checkout -b A-HK-first-contrib`
+    ```
+    git checkout -b A-HK-first-contrib
+    ```<br />
    
    
    #### 4. Add the necessary details
@@ -60,13 +68,20 @@ Once that's done, come back here and follow these steps !
 
    If you go to the project directory and execute the command `git status`, you'll see there are changes. <br />
    Add the changed files to the branch you just created using the `git add` command: <br />
-   `git add contributors.md`
+     ```
+    git add contributors-list.md
+    ```<br />
 
    Now commit those changes using the git commit command:
-   `git commit -m "your-message"`
+     ```
+    git commit -m "your message"
+    ```<br />
    
    For example:
-   `git commit -m "added A-HK details to contributors list"`
+     ```
+    git commit -m "added A-HK details to contributors list"
+    ```<br />
+   
    
 
 
