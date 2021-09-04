@@ -18,12 +18,13 @@ What's in store:
 
 ### Making Your First Contribution
 
-* First off, if you don't have git set up on your machine, [install it here](https://docs.github.com/en/get-started/quickstart/set-up-git).
+**First off, if you don't have git set up on your machine, [install it here](https://docs.github.com/en/get-started/quickstart/set-up-git).** <br/>
+Once that's done, come back here and follow these steps !
 
-* Add your name and a little about yourself to this list :
-    #### 1. Fork this repository
+
+   #### 1. Fork this repository
     
-     ![image](https://user-images.githubusercontent.com/73497800/132091266-43eee21c-5831-40be-b580-c715037cf2da.png)<br/>
+   ![image](https://user-images.githubusercontent.com/73497800/132091266-43eee21c-5831-40be-b580-c715037cf2da.png)<br/>
      Fork this repository by clicking on the fork button on the top of this page. This will create a copy of this repository in your account.
      
    #### 2. Clone the repository
@@ -49,6 +50,11 @@ What's in store:
    
    For example:
    `git checkout -b A-HK-first-contrib`
+   
+   
+   #### 4. Add the necessary details
+   
+   Now all there's left to do is to open the `contributors-list.md` file and add your name and a little about yourself !
 
    
    
