@@ -65,8 +65,10 @@ Once that's done, come back here and follow these steps !
    #### 4. Add the necessary details
    
    Woohoo! You're almost there! Open the `contributors-list.md` file and add your name and a little about yourself ! <br />
+   
+   #### 5. Commit your changes
 
-   If you go to the project directory and execute the command `git status`, you'll see there are changes. <br />
+   If you go to the project directory and execute the command `git status` in the terminal, you'll see there are changes. <br />
    Add the changed files to the branch you just created using the `git add` command: <br />
    ```
    git add contributors-list.md
@@ -82,6 +84,26 @@ Once that's done, come back here and follow these steps !
    git commit -m "added A-HK details to contributors list"
    ```
    
+   #### 6. Push your changes to GitHub
    
-
-
+   Push your changes using the command `git push`:
+   ```
+   git push origin <add-your-branch-name>
+   ```
+   For example:
+   ```
+   git push origin A-HK-first-contrib
+   ```
+   
+   #### 7. Submit your Pull request for review
+   
+   Go to your forked repository on GitHub and click on the `Compare & pull request` button. <br />
+   
+   **Note: Make sure you're on your newly created branch !**
+   
+   
+   Submit your Pull Request, after ensuring that the base repository is `Tech-Matrix/Getting-Started` and head repository is `<your-username>/Getting-Started`
+   
+   
+   #### Congrats ! You just made a contribution !
+   All you have to do now is sit tight and wait for us to merge your PR :)
