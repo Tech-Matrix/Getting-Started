@@ -4,7 +4,7 @@ We're so glad you found yourselves here!
 
 The current iteration of Tech-Matrix has two subdivisions :
 * [Project Workbench]()
-* [Open Source September]()
+* [Open Source September](https://github.com/Tech-Matrix/Getting-Started/blob/main/README.md#-open-source-september)
 
 ### 📌 Open Source September
 
