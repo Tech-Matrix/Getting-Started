@@ -46,7 +46,9 @@ Once that's done, come back here and follow these steps !
    `cd Getting-Started` <br />
    
    Now create a branch using the git checkout command: <br />
-   `git checkout -b your-new-branch-name` <br />
+   `
+   git checkout -b your-new-branch-name
+   ` <br />
    
    For example:
    `git checkout -b A-HK-first-contrib`
@@ -54,9 +56,17 @@ Once that's done, come back here and follow these steps !
    
    #### 4. Add the necessary details
    
-   Now all there's left to do is to open the `contributors-list.md` file and add your name and a little about yourself !
+   Congrats! You're almost there! Open the `contributors-list.md` file and add your name and a little about yourself ! <br />
 
+   If you go to the project directory and execute the command `git status`, you'll see there are changes. <br />
+   Add the changed files to the branch you just created using the `git add` command: <br />
+   `git add contributors.md`
+
+   Now commit those changes using the git commit command:
+   `git commit -m "your-message"`
    
+   For example:
+   `git commit -m "added A-HK details to contributors list"`
    
 
 
