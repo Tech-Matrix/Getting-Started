@@ -38,4 +38,19 @@ What's in store:
     `git clone https://github.com/A-HK/Getting-Started-1.git`
     
     Remember to clone **your forked repository** , not the original one.
+    
+   #### 3. Create a branch
+   
+   Change to the repository directory on your computer (if you are not already there):<br />
+   `cd Getting-Started` <br />
+   
+   Now create a branch using the git checkout command: <br />
+   `git checkout -b your-new-branch-name` <br />
+   
+   For example:
+   `git checkout -b A-HK-first-contrib`
+
+   
+   
+
 
