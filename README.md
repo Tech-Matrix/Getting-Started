@@ -104,7 +104,7 @@ Once that's done, come back here and follow these steps ! <br /><br />
 
    ![image](https://user-images.githubusercontent.com/73497800/132095416-d35a7fe7-6a55-47b4-8712-435fbc4b6410.png) <br /><br />
    
-   Submit your Pull Request, after ensuring that the base repository is `Tech-Matrix/Getting-Started` and head repository is <br /> `<your-username>/Getting-Started` <br/><br />
+   Submit your Pull Request, after ensuring that the base repository is `Tech-Matrix/Getting-Started` and head repository is  `<your-username>/Getting-Started` <br/><br />
    
    ![image](https://user-images.githubusercontent.com/73497800/132095677-b1f00078-6c28-47b8-93f5-b26c273f4fd7.png)
 
