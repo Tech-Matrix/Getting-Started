@@ -1,4 +1,9 @@
-# Getting-Started
+# WELCOME TO TECH-MATRIX ! 🎉
 
+We're so glad you found yourselves here!
 
-#### First off, welcome to Tech-Matrix ! 🎉
+The current iteration of Tech-Matrix has two subdivisions :
+* [Project Workbench]()
+* [Open Source September]()
+
+### 📌 Open Source September
