@@ -19,7 +19,7 @@ What's in store:
 ### Making Your First Contribution
 
 **First off, if you don't have git set up on your machine, [install it here](https://docs.github.com/en/get-started/quickstart/set-up-git).** <br/>
-Once that's done, come back here and follow these steps !
+Once that's done, come back here and follow these steps ! <br /><br />
 
 
    #### 1. Fork this repository
@@ -65,6 +65,8 @@ Once that's done, come back here and follow these steps !
    #### 4. Add the necessary details
    
    Woohoo! You're almost there! Open the `contributors-list.md` file and add your name and a little about yourself ! <br />
+   ![image](https://user-images.githubusercontent.com/73497800/132095056-7a7d7715-75c6-4118-a1c8-22d98044f8c1.png)
+
    
    #### 5. Commit your changes
 
@@ -104,6 +106,6 @@ Once that's done, come back here and follow these steps !
    
    Submit your Pull Request, after ensuring that the base repository is `Tech-Matrix/Getting-Started` and head repository is `<your-username>/Getting-Started`
    
-   
-   #### Congrats ! You just made a contribution !
+   <br /><br />
+   ### ✨Congrats ! You just made a contribution ! ✨
    All you have to do now is sit tight and wait for us to merge your PR :)
