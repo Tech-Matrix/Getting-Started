@@ -35,10 +35,10 @@ Once that's done, come back here and follow these steps !
    Open your terminal and run the following git command:<br />
    `git clone <url you just copied>`
 
-    For example: <br/>
+   For example: <br/>
     `git clone https://github.com/A-HK/Getting-Started-1.git`
     
-    Remember to clone **your forked repository** , not the original one.
+   Remember to clone **your forked repository** , not the original one.
     
    #### 3. Create a branch
    
