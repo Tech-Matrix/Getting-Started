@@ -29,7 +29,7 @@ Once that's done, come back here and follow these steps !
      
    #### 2. Clone the repository
    
-   Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button and then click the copy to clipboard icon to copy the url of the repo. <br />
+   Now clone the **forked repository** to your machine. Go to your GitHub account, open the forked repository, click on the code button and then click the copy to clipboard icon to copy the url of the repo. <br />
    ![image](https://user-images.githubusercontent.com/73497800/132091517-75610254-b897-44d5-93b6-fb0037314fc2.png)
 
    Open your terminal and run the following git command:<br />
@@ -38,49 +38,49 @@ Once that's done, come back here and follow these steps !
    ```
 
    For example: <br/>
-    ```
-    git clone https://github.com/A-HK/Getting-Started-1.git
-    ``` <br />
+   ```
+   git clone https://github.com/A-HK/Getting-Started-1.git
+   ```
     
    Remember to clone **your forked repository** , not the original one.
     
    #### 3. Create a branch
    
    Change to the repository directory on your computer (if you are not already there):<br />
-    ```
-    cd Getting-Started
-    ```<br />
+   ```
+   cd Getting-Started
+   ```
    
    Now create a branch using the git checkout command: <br />
-    ```
-    git checkout -b your-new-branch-name
-    ```<br />
+   ```
+   git checkout -b your-new-branch-name
+   ```
    
    For example:
-    ```
-    git checkout -b A-HK-first-contrib
-    ```<br />
+   ```
+   git checkout -b A-HK-first-contrib
+   ```
    
    
    #### 4. Add the necessary details
    
-   Congrats! You're almost there! Open the `contributors-list.md` file and add your name and a little about yourself ! <br />
+   Woohoo! You're almost there! Open the `contributors-list.md` file and add your name and a little about yourself ! <br />
 
    If you go to the project directory and execute the command `git status`, you'll see there are changes. <br />
    Add the changed files to the branch you just created using the `git add` command: <br />
-     ```
-    git add contributors-list.md
-    ```<br />
+   ```
+   git add contributors-list.md
+   ```
 
    Now commit those changes using the git commit command:
-     ```
-    git commit -m "your message"
-    ```<br />
+   ```
+   git commit -m "your message"
+   ```
    
    For example:
-     ```
-    git commit -m "added A-HK details to contributors list"
-    ```<br />
+   ```
+   git commit -m "added A-HK details to contributors list"
+   ```
    
    
 
