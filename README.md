@@ -35,5 +35,7 @@ What's in store:
    `git clone <url you just copied>`
 
     For example: <br/>
-    `git clone https://github.com/Tech-Matrix/Getting-Started.git`
+    `git clone https://github.com/A-HK/Getting-Started-1.git`
+    
+    Remember to clone **your forked repository** , not the original one.
 
