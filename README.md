@@ -14,3 +14,12 @@ What's in store:
 
 ![Open_Source_September_Schedule](https://user-images.githubusercontent.com/73497800/132090890-e7ec7626-898c-429a-b581-0e9a580dbfbf.png)
 
+
+
+### Making Your First Contribution
+
+* First off, if you don't have git set up on your machine, [install it here](https://docs.github.com/en/get-started/quickstart/set-up-git).
+
+* Add your name and a little about yourself to this list :
+    1. Fork this repository
+
