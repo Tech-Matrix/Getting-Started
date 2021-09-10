@@ -3,8 +3,14 @@
 
 Template:
 ```
-Name : <Your Name>
-Link to profile : [your-username](link-to-your-profile)
-About Me : 
-<A couple of lines about yourself!>
+**Name** : <Your Name> <br />
+**Link to profile** : [your-username](link-to-your-profile) <br />
+**About Me** : <br />
+<A couple of lines about yourself!> <br />
 ```
+
+**Name** : Anindita H.K <br />
+**Link to profile** : [A-HK](https://github.com/A-HK) <br />
+**About Me** : <br />
+Born and brought up in Bengaluru. A Harry Potter fanatic and occasional keyboard player. <br />
+Willing to wage a war with anyone who thinks that pineapple on pizza is okay. <br />
