@@ -1,6 +1,5 @@
 # WELCOME TO TECH-MATRIX ! 🎉
 
-test
 
 We're so glad you found yourselves here!
 
