@@ -8,7 +8,7 @@ Link to profile : [your-username](link-to-your-profile)
 About Me : 
 <A couple of lines about yourself!>
 ```
-Name : Charvi Bannur
-Link to profile : [charvibannur](https://github.com/charvibannur)
-About Me : 
-We're drowning in information and starving for knowledge.
+Name : Charvi Bannur <br />
+Link to profile : [charvibannur](https://github.com/charvibannur) <br />
+About Me : <br />
+We're drowning in information and starving for knowledge. <br />
