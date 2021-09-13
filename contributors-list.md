@@ -1,4 +1,6 @@
+
 ## List of the amazing contributors in Newolf Open Source September ! 🎉
+
 
 
 Template:
@@ -8,6 +10,8 @@ Template:
 **About Me** : <br />
 <A couple of lines about yourself!> <br />
 ```
+
+
 **Name** : Charvi Bannur <br />
 **Link to profile** : [charvibannur](https://github.com/charvibannur) <br />
 **About Me** : <br />
@@ -87,3 +91,44 @@ open to learn new things,love to game or draw in my free time :) <br />
 **About Me** : <br />
 Along with my love for tech I am also a cinephile and lover of crime thriller novels <br />
 
+
+**Name** : Ashwin K Sharma <br />
+**Link to profile** : [Ashwin-K-Sharma](https://github.com/Ashwin-K-Sharma) <br />
+**About Me** : <br />
+I like anime!! <br />
+
+**Name** : Urmil Kalaria <br />
+**Link to profile** : [urmilkalaria](https://github.com/urmilkalaria) <br />
+**About Me** : <br />
+Hello Guys I am from PES University. I like to know about cool tech stuff and wanted to contribute to some cool projects in TechMatrix. <br />
+
+**Name** : Aditya Rao <br/>
+**Link to profile** : [DesktopPotato]("https://github.com/DesktopPotato") <br/>
+**About Me** : <br/>
+I'm too lazy to type about myself here actually, but then again, I've written this much so ¯/_(ツ)_/¯ <br/>
+However, yes, it feels good to know more and more about tech. <br/>
+
+**Name** : Varna Satyanarayana <br />
+**Link to profile** : [VarnaSatya](https://github.com/VarnaSatya) <br />
+**About Me** : <br />
+Currently in 5th semester (CSE) at PESU <br />
+
+**Name** : Jaaswin Kotian <br />
+**Link to profile** : [Jaswin09](https://github.com/Jaswin09) <br />
+**About Me** : <br />
+Heyyyy There! <br />
+
+**Name** : Aditya Lawankar <br />
+**Link to profile** : [aditya-lawankar](https://github.com/aditya-lawankar) <br />
+**About Me** : <br />
+open to learn new things,love to game or draw in my free time :) <br />
+
+**Name** : Anashua Kriitka Dastidar <br />
+**Link to profile** : [Anashua](https://github.com/Anashua) <br />
+**About Me** : <br />
+Along with my love for tech I am also a cinephile and lover of crime thriller novels <br />
+
+**Name** : Mohamed Ayaan <br />
+**Link to profile** : [Mohamed-Ayaan358](https://github.com/Mohamed-Ayaan358) <br />
+**About Me** : <br />
+Born and brought up in Bengaluru.I am an avid reader and enjoy watching star wars. <br />
