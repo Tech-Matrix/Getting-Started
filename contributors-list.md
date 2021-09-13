@@ -41,4 +41,9 @@ I like anime!! <br />
 **About Me** : <br />
 Hello Guys I am from PES University. I like to know about cool tech stuff and wanted to contribute to some cool projects in TechMatrix. <br />
 
+**Name** : Varna Satyanarayana <br />
+**Link to profile** : [VarnaSatya](https://github.com/VarnaSatya) <br />
+**About Me** : <br />
+Currently in 5th semester (CSE) at PESU <br />
+
 
