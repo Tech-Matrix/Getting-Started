@@ -19,6 +19,11 @@ We're drowning in information and starving for knowledge. <br />
 Born and brought up in Bengaluru. A Harry Potter fanatic and occasional keyboard player. <br />
 Willing to wage a war with anyone who thinks that pineapple on pizza is okay. <br />
 
+**Name** : Kohav Dey <br />at
+**Link to profile** : [DragonDare](https://github.com/DragonDare) <br />
+**About Me** : <br />
+A tech enthu, a Star Wars Fanatic, Cricket lover, An avid (not really) singer, and an introvert. That's something about me you won't find on Facebook <br />
+
 **Name** : Vedanth V Baliga <br />
 **Link to profile** : [vedanthv](https://github.com/vedanthv) <br />
 **About Me** : <br />
@@ -66,4 +71,5 @@ open to learn new things,love to game or draw in my free time :) <br />
 **Link to profile** : [Anashua](https://github.com/Anashua) <br />
 **About Me** : <br />
 Along with my love for tech I am also a cinephile and lover of crime thriller novels <br />
+
 
