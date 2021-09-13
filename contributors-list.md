@@ -90,6 +90,11 @@ Currently in 5th semester (CSE) at PESU <br />
 **About Me** : <br />
 Heyyyy There! <br />
 
+**Name** : Nevasini S <br />
+**Link to profile** : [nevasini](https://github.com/nevasini) <br />
+**About Me** : <br />
+Hey how have you been? <br />
+
 **Name** : Aditya Lawankar <br />
 **Link to profile** : [aditya-lawankar](https://github.com/aditya-lawankar) <br />
 **About Me** : <br />
@@ -104,4 +109,5 @@ Along with my love for tech I am also a cinephile and lover of crime thriller no
 **Link to profile** : [Mohamed-Ayaan358](https://github.com/Mohamed-Ayaan358) <br />
 **About Me** : <br />
 Born and brought up in Bengaluru.I am an avid reader and enjoy watching star wars. <br />
+
 
