@@ -50,3 +50,8 @@ Currently in 5th semester (CSE) at PESU <br />
 **Link to profile** : [Jaswin09](https://github.com/Jaswin09) <br />
 **About Me** : <br />
 Heyyyy There! <br />
+
+**Name** : Aditya Lawankar <br />
+**Link to profile** : [aditya-lawankar](https://github.com/aditya-lawankar) <br />
+**About Me** : <br />
+open to learn new things,love to game or draw in my free time :) <br />
