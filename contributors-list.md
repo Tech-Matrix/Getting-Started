@@ -46,4 +46,7 @@ Hello Guys I am from PES University. I like to know about cool tech stuff and wa
 **About Me** : <br />
 Currently in 5th semester (CSE) at PESU <br />
 
-
+**Name** : Jaaswin Kotian <br />
+**Link to profile** : [Jaswin09](https://github.com/Jaswin09) <br />
+**About Me** : <br />
+Heyyyy There! <br />
