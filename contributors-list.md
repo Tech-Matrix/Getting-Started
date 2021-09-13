@@ -23,6 +23,3 @@ Willing to wage a war with anyone who thinks that pineapple on pizza is okay. <b
 **Link to profile** : [urmilkalaria](https://github.com/urmilkalaria) <br />
 **About Me** : <br />
 Hello Guys I am from PES University. I like to know about cool tech stuff and wanted to contribute to some cool projects in TechMatrix. <br />
-
-
-
