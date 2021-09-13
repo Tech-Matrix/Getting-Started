@@ -19,4 +19,7 @@ We're drowning in information and starving for knowledge. <br />
 Born and brought up in Bengaluru. A Harry Potter fanatic and occasional keyboard player. <br />
 Willing to wage a war with anyone who thinks that pineapple on pizza is okay. <br />
 
-
+**Name** : Vanshika Goel<br />
+**Link to profile** : [goel-vanshika](https://github.com/goel-vanshika) <br />
+**About Me** : A typical Delhi kid. I love languages and movies and books and everything in between.<br />
+<br />
