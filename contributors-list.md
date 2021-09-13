@@ -55,3 +55,8 @@ Heyyyy There! <br />
 **Link to profile** : [aditya-lawankar](https://github.com/aditya-lawankar) <br />
 **About Me** : <br />
 open to learn new things,love to game or draw in my free time :) <br />
+
+**Name** : Anashua Kriitka Dastidar <br />
+**Link to profile** : [Anashua](https://github.com/Anashua) <br />
+**About Me** : <br />
+Along with my love for tech I am also a cinephile and lover of crime thriller novels <br />
