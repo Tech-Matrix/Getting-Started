@@ -24,7 +24,7 @@ Born and brought up in Bengaluru. A Harry Potter fanatic and occasional keyboard
 Willing to wage a war with anyone who thinks that pineapple on pizza is okay. <br />
 
 **Name** : Ujwal KV <br />
-**Link to profile** : [ujju0906](https://github.com/ujju0906)) <br />
+**Link to profile** : [ujju0906](https://github.com/ujju0906) <br />
 **About Me** : <br />
 karma dharma shawarma <br />
 
@@ -66,7 +66,7 @@ I like anime!! <br />
 Hello Guys I am from PES University. I like to know about cool tech stuff and wanted to contribute to some cool projects in TechMatrix. <br />
 
 **Name** : Aditya Rao <br/>
-**Link to profile** : [DesktopPotato]("https://github.com/DesktopPotato") <br/>
+**Link to profile** : [DesktopPotato](https://github.com/DesktopPotato) <br/>
 **About Me** : <br/>
 I'm too lazy to type about myself here actually, but then again, I've written this much so ¯/_(ツ)_/¯ <br/>
 However, yes, it feels good to know more and more about tech. <br/>
