@@ -20,3 +20,6 @@ Born and brought up in Bengaluru. A Harry Potter fanatic and occasional keyboard
 Willing to wage a war with anyone who thinks that pineapple on pizza is okay. <br />
 
 
+**Name** : Hita Juneja <br />
+**Link to profile** : [hita03](https://github.com/hita03) <br />
+**About Me** :<br />Learning every step of the way! <br />
