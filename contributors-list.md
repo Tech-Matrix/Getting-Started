@@ -41,6 +41,12 @@ I like anime!! <br />
 **About Me** : <br />
 Hello Guys I am from PES University. I like to know about cool tech stuff and wanted to contribute to some cool projects in TechMatrix. <br />
 
+**Name** : Aditya Rao <br/>
+**Link to profile** : [DesktopPotato]("https://github.com/DesktopPotato") <br/>
+**About Me** : <br/>
+I'm too lazy to type about myself here actually, but then again, I've written this much so ¯/_(ツ)_/¯ <br/>
+However, yes, it feels good to know more and more about tech. <br/>
+
 **Name** : Varna Satyanarayana <br />
 **Link to profile** : [VarnaSatya](https://github.com/VarnaSatya) <br />
 **About Me** : <br />
@@ -60,3 +66,4 @@ open to learn new things,love to game or draw in my free time :) <br />
 **Link to profile** : [Anashua](https://github.com/Anashua) <br />
 **About Me** : <br />
 Along with my love for tech I am also a cinephile and lover of crime thriller novels <br />
+
