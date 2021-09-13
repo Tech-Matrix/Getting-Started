@@ -55,6 +55,10 @@ Hey folks:wave:,
 I'm Vedanth from DSU. **GitHub is my second home** and I love building projects that **solve real problems** and also love hackathons espicially the MLH ones. 
 I also love building communities from the ground up and work on the side as a **Community Manager for 66daysofdata and Codebasics.** Currently I'm taking up the #100daysofcode challenge and excited to get started with open source. **Feel free to connect with me** on Twitter [@BaligaVedanth](https://twitter.com/BaligaVedanth) and LinkedIn [@vedanthvbaliga](https://www.linkedin.com/in/vedanthbaliga/) <br />
 
+**Name** : Hita Juneja <br />
+**Link to profile** : [hita03](https://github.com/hita03) <br />
+**About Me** :<br />Learning every step of the way! <br />
+
 **Name** : Achyuta Katta <br />
 **Link to profile** : [achyuta116](https://github.com/achyuta116) <br />
 **About Me** : <br />
@@ -100,3 +104,4 @@ Along with my love for tech I am also a cinephile and lover of crime thriller no
 **Link to profile** : [Mohamed-Ayaan358](https://github.com/Mohamed-Ayaan358) <br />
 **About Me** : <br />
 Born and brought up in Bengaluru.I am an avid reader and enjoy watching star wars. <br />
+
