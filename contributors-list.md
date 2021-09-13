@@ -36,4 +36,9 @@ Cycling 4 lyf
 **About Me** : <br />
 I like anime!! <br />
 
+**Name** : Urmil Kalaria <br />
+**Link to profile** : [urmilkalaria](https://github.com/urmilkalaria) <br />
+**About Me** : <br />
+Hello Guys I am from PES University. I like to know about cool tech stuff and wanted to contribute to some cool projects in TechMatrix. <br />
+
 
