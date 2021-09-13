@@ -23,6 +23,12 @@ We're drowning in information and starving for knowledge. <br />
 Born and brought up in Bengaluru. A Harry Potter fanatic and occasional keyboard player. <br />
 Willing to wage a war with anyone who thinks that pineapple on pizza is okay. <br />
 
+**Name** : Sankalp Kumar <br />
+**Link to profile** : [sankalpkr](https://github.com/sankalpkr) <br />
+**About Me** : <br />
+3rd sem CSE student from PES RR Campus. <br />
+Interested in coding and learning new tech. <br />
+
 **Name** : Maani Jacob <br />
 **Link to profile** : [MaaniacLaughter](https://github.com/MaaniacLaughter) <br />
 **About Me** : <br />
@@ -109,5 +115,3 @@ Along with my love for tech I am also a cinephile and lover of crime thriller no
 **Link to profile** : [Mohamed-Ayaan358](https://github.com/Mohamed-Ayaan358) <br />
 **About Me** : <br />
 Born and brought up in Bengaluru.I am an avid reader and enjoy watching star wars. <br />
-
-
