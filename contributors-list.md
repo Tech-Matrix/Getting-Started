@@ -20,3 +20,8 @@ Born and brought up in Bengaluru. A Harry Potter fanatic and occasional keyboard
 Willing to wage a war with anyone who thinks that pineapple on pizza is okay. <br />
 
 
+**Name** : Aditya Rao <br/>
+**Link to profile** : [DesktopPotato]("https://github.com/DesktopPotato") <br/>
+**About Me** : <br/>
+I'm too lazy to type about myself here actually, but then again, I've written this much so ¯/_(ツ)_/¯ <br/>
+However, yes, it feels good to know more and more about tech. <br/>
