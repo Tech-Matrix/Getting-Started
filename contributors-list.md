@@ -3,10 +3,10 @@
 
 Template:
 ```
-**Name** : <Your Name> <br />
-**Link to profile** : [your-username](link-to-your-profile) <br />
+**Name** : Navya Tayi <br />
+**Link to profile** : [Navya-tayi](https://github.com/Navya-tayi) <br />
 **About Me** : <br />
-<A couple of lines about yourself!> <br />
+<I constantly ponder about the Universe and our existence. I love playing the Keyboard, reading Novels and bake & cook often.  > <br />
 ```
 **Name** : Charvi Bannur <br />
 **Link to profile** : [charvibannur](https://github.com/charvibannur) <br />
