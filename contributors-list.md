@@ -128,3 +128,9 @@ Born and brought up in Bengaluru.I am an avid reader and enjoy watching star war
 **Link to profile** : [amulyaashetty](https://github.com/amulyaashetty) <br />
 **About Me** : <br />
 A tech enthusiast! <br />
+
+**Name** : B.Pravena <br />
+**Link to profile** : [bprav](https://github.com/Pravena725) <br />
+**About Me** : <br />
+I'm always open to learn new things. I kinda play the keyboard and sing. <br />
+Currently studying in PES !! <br />
