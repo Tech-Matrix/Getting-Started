@@ -5,10 +5,10 @@
 
 Template:
 ```
-**Name** : <Amulya Shetty> <br />
-**Link to profile** : [amulyaashetty](https://github.com/amulyaashetty) <br />
+**Name** : <Your Name> <br />
+**Link to profile** : [your-username](link-to-your-profile) <br />
 **About Me** : <br />
-<A tech enthusiast!> <br />
+<A couple of lines about yourself!> <br />
 ```
 
 
