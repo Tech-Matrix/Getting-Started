@@ -119,5 +119,5 @@ Born and brought up in Bengaluru.I am an avid reader and enjoy watching star war
 **Name** : Faiza Maleeha <br />
 **Link to profile** : [maleeha5](https://github.com/maleeha5) <br />
 **About Me** : <br />
-< Faiza - oh that's me ,i'm pretty much an overthinking creep who thinks of all possible timelines other than the present,
- but I somehow, manage to dwell in it anyways;)> <br />
+ Faiza - oh that's me ,i'm pretty much an overthinking creep who thinks of all possible timelines other than the present,
+ but I somehow, manage to dwell in it anyways;) <br />
