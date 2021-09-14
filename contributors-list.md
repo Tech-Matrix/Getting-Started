@@ -115,3 +115,9 @@ Along with my love for tech I am also a cinephile and lover of crime thriller no
 **Link to profile** : [Mohamed-Ayaan358](https://github.com/Mohamed-Ayaan358) <br />
 **About Me** : <br />
 Born and brought up in Bengaluru.I am an avid reader and enjoy watching star wars. <br />
+
+**Name** : Faiza Maleeha <br />
+**Link to profile** : [maleeha5](https://github.com/maleeha5) <br />
+**About Me** : <br />
+< Faiza - oh that's me ,i'm pretty much an overthinking creep who thinks of all possible timelines other than the present,
+ but I somehow, manage to dwell in it anyways;)> <br />
