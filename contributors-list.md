@@ -3,12 +3,12 @@
 
 
 
-Template:
+
 
 **Name** : Navya Tayi <br />
 **Link to profile** : [Navya-tayi](https://github.com/Navya-tayi) <br />
 **About Me** : <br />
-<I constantly ponder about the Universe and our existence. I love playing the Keyboard, reading Novels and bake & cook often.  > <br />
+I constantly ponder about the Universe and our existence. I love playing the Keyboard, reading Novels and bake & cook often.   <br />
 
 
 
