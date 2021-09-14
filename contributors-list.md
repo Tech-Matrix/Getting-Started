@@ -121,3 +121,8 @@ Born and brought up in Bengaluru.I am an avid reader and enjoy watching star war
 **About Me** : <br />
  Faiza - oh that's me ,i'm pretty much an overthinking creep who thinks of all possible timelines other than the present,
  but I somehow, manage to dwell in it anyways;) <br />
+ 
+**Name** : Amulya Shetty <br />
+**Link to profile** : [amulyaashetty](https://github.com/amulyaashetty) <br />
+**About Me** : <br />
+A tech enthusiast! <br />
