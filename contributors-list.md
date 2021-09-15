@@ -33,13 +33,13 @@ A Mallu making his way through Bangalore....and absolutely loving it <br />
 
 **Name** : Navya Tayi <br />
 **Link to profile** : [Navya-tayi](https://github.com/Navya-tayi) <br />
+**About Me** : <br />
+I constantly ponder about the Universe and our existence. I love playing the Keyboard, reading Novels and bake & cook often.   <br />
 
 **Name** : Ankitha C <br />
 **Link to profile** : [Ankithac45](https://github.com/Ankithac45) <br />
 **About Me** : <br />
 Eager for knowledge and accept challenges!!<br>
-**About Me** : <br />
-I constantly ponder about the Universe and our existence. I love playing the Keyboard, reading Novels and bake & cook often.   <br />
 
 **Name** : Ujwal KV <br />
 **Link to profile** : [ujju0906](https://github.com/ujju0906) <br />
