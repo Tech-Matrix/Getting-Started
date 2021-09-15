@@ -139,3 +139,9 @@ A tech enthusiast! <br />
 **About Me** : <br />
 I'm always open to learn new things. I kinda play the keyboard and sing. <br />
 Currently studying in PES !! <br />
+
+**Name** : KG Deekshitha <br />
+**Link to profile** : [deekshitha3782](https://github.com/deekshitha3782) <br />
+**About Me** : <br />
+Curious to learn new things and implement ideas <br />
+
