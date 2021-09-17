@@ -21,6 +21,6 @@ Willing to wage a war with anyone who thinks that pineapple on pizza is okay. <b
 
 **Name** : Vanshika Goel<br />
 **Link to profile** : [goel-vanshika](https://github.com/goel-vanshika) <br />
-**About Me** : I'm as typical Delhi kid. I love languages, movies and books and everything in between.<br />
+**About Me** : I'm a typical Delhi kid. I love languages, movies and books and everything in between.<br />
 <br />
 
