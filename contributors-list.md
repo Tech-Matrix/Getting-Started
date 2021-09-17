@@ -20,6 +20,11 @@ We're drowning in information and starving for knowledge. <br />
 Born and brought up in Bengaluru. A Harry Potter fanatic and occasional keyboard player. <br />
 Willing to wage a war with anyone who thinks that pineapple on pizza is okay. <br />
 
+**Name** : Vanshika Goel<br />
+**Link to profile** : [goel-vanshika](https://github.com/goel-vanshika) <br />
+**About Me** : I'm a typical Delhi kid. I love languages, movies and books and everything in between.<br />
+<br />
+
 **Name** : abishek deivam <br />
 **Link to profile** : [carnage5](https://github.com/carnage5) <br />
 **About Me** : <br />
@@ -149,4 +154,3 @@ Currently studying in PES !! <br />
 **Link to profile** : [deekshitha3782](https://github.com/deekshitha3782) <br />
 **About Me** : <br />
 Curious to learn new things and implement ideas <br />
-
